@@ -1,0 +1,54 @@
+/* 이서윤체 폰트 적용을 위한 코드 */
+@font-face {
+    font-family: "LeeSeoyun";
+    src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2202-2@1.0/LeeSeoyun.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* body태그 자체에 css 요소 부여 */
+/* body {
+    font-family: "LeeSeoyun";
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-image: url("../../public/background.png");
+} */
+
+.container {
+    font-family: "LeeSeoyun";
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-image: url("../../public/background.png");
+}
+
+.container2 {
+    width: 390px;
+    height: 100%;
+    background-color: #ff9d73;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.f_title {
+    font-size: 25px;
+    font-weight: 900;
+    color: white;
+}
+
+.f_date {
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+}
+
+.inpImg{
+    display: flex;
+    flex-direction: column;
+}
+
