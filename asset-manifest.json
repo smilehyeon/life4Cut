@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/life4Cut/static/css/main.c13bb097.css",
+    "main.js": "/life4Cut/static/js/main.2f157372.js",
+    "static/js/787.28cb0dcd.chunk.js": "/life4Cut/static/js/787.28cb0dcd.chunk.js",
+    "static/media/background.png": "/life4Cut/static/media/background.57706b10aa98d80a098f.png",
+    "index.html": "/life4Cut/index.html",
+    "main.c13bb097.css.map": "/life4Cut/static/css/main.c13bb097.css.map",
+    "main.2f157372.js.map": "/life4Cut/static/js/main.2f157372.js.map",
+    "787.28cb0dcd.chunk.js.map": "/life4Cut/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c13bb097.css",
+    "static/js/main.2f157372.js"
+  ]
+}
